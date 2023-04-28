@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+
+.board {
+  text-align: center;
+  
+}
+
+ButtonGroup {
+  display: inline;
+}
+/* .column { 
+  display: inline-block;
+} */
